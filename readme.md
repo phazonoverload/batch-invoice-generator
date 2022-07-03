@@ -14,4 +14,6 @@ git clone https://github.com/phazonoverload/batch-invoice-generator && cd batch-
 
 Then, update the information in `index.js`.
 
-Once completed, run `node index.js` and all invoices should appear in a `output` directory.
+Once completed, run `node index.js` and all invoices should appear in a `output` directory looking like this:
+
+![](./output.png)

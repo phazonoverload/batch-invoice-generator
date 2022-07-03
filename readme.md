@@ -12,7 +12,7 @@ Run this command
 git clone https://github.com/phazonoverload/batch-invoice-generator && cd batch-invoice-generator && npm install && mv input.example.js input.js
 ```
 
-Then, update the information in `index.js`.
+Then, update the information in `input.js`.
 
 Once completed, run `node index.js` and all invoices should appear in a `output` directory looking like this:
 
